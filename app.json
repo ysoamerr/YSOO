@@ -1,0 +1,50 @@
+{
+    "name": "🔱 𝐘𝐒𝐎 🔱",
+    "description": "User bot for telegram !",
+    "stack": "container",
+    "logo": "https://telegra.ph/file/bd0fde82d09f7681afc99.jpg",
+    "repository": "https://github.com/modymesourceze/collect",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://github.com/modymesourceze/collect",
+    "env": {
+        "api_id": {
+            "description": "ايبي ايدي",
+            "value": "12453602",
+            "required": true
+        },
+        "api_hash": {
+            "description": "ايبي هاش",
+            "value": "96e7a1b8d3fb5bd8cf35f2db2e34daa4",
+            "required": true
+        },
+        "DEVLOO": {
+            "description": "ايـدي الـمـطور",
+            "value": "6396782078",
+            "required": true
+        },
+        "bot_token": {
+            "description": "توكن البوت",
+            "value": "6724982232:AAEIfqKAJmf1CSw1gV5xZSPNv5Yh0kg38pQ",
+            "required": true
+        },
+        "user_bot": {
+            "description": "يوزر البوت بدون ـ@ـ",
+            "value": "LO_2BoT",
+            "required": true
+        },
+        "id_bot": {
+            "description": "ايدي البوت",
+            "value": "6724982232",
+            "required": true
+        },
+    "session": {
+        "description": "كود تيرمكـس",
+        "value": "",
+        "required": true
+    }
+  }
+} 
